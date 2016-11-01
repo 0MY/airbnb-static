@@ -1,0 +1,34 @@
+# data/flats.yml
+philippe:
+  owner_name: Philippe Chambon
+  picture: card-paris.jpg
+  owner_picture: philippe.jpg
+  name: Philippe's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  rating: 3
+  max_guests: 1
+  wifi: true
+olivier:
+  owner_name: Olivier Marty
+  picture: card-london.jpg
+  owner_picture: olivier.jpg
+  name: Olivier's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  rating: 4
+  max_guests: 3
+  wifi: false
+anne:
+  owner_name: Anne
+  picture: card-brussels.jpg
+  owner_picture: anne.jpg
+  name: Anne's home
+  summary: Nice flat downtown
+  city: Brussels, BE
+  wifi: false
+  rating: 5
+  max_guests: 2
+  wifi: true
