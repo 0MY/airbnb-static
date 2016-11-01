@@ -1,0 +1,22 @@
+/* Footer design */
+#footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  height: 150px;
+  background-color: $grey-darker;
+  color: $grey-lighter;
+  margin-top: -15px;
+}
+
+.icon-grey-yellow {
+  transition: all 1s ease;
+  color: $grey-lighter;
+}
+
+.icon-grey-yellow:hover {
+  color: $yellow-pure;
+}
+
+.icon-big {
+  font-size: 30px;
+}
